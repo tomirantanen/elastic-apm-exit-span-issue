@@ -1,0 +1,6 @@
+{
+  "name": "apm-issue",
+  "dependencies": {
+    "elastic-apm-node": "4.11.2"
+  }
+}
