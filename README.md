@@ -1,0 +1,1 @@
+# elastic-apm-exit-span-issue
